@@ -52,6 +52,12 @@
 ## stack
 ### python
 
+
+## 모바일
+### flutter
+### android
+### (react native)
+
 ### html / css
 
 ### javascript
