@@ -9,8 +9,10 @@
 ## [회고](https://github.com/davJ-star/review)
 
 
-
-
+## [코딩테스트](https://github.com/davJ-star/algorithms_coding-test/tree/main)
+스터디 활동진행
+- [대학교 스터디 진행(vercel 웹페이지 구축해서 올리는 방향으로 진행했었음.)]()
+- [교육내 스터디 진행](https://github.com/codingTestFOR/jeongseongwook)
 
 
 ## project
